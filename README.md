@@ -1,2 +1,2 @@
-# first-html
-The first web page written in HTML.
+# HTML学习收录库
+用于收录一些编写的HTML，轮子文学。
